@@ -1,0 +1,2 @@
+_G.Key = "TEST_GG_EZ"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OuONice/Test-Script/main/wow", true))()
