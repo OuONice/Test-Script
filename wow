@@ -1,7 +1,1 @@
-local key = _G.Key
-local check = "https://godpatter.000webhostapp.com/Check.php?key=" .. key
-if game:HttpGet(check) == "Whitelisted" then
-loadstring(game:HttpGet("https://godpatter.000webhostapp.com/script.lua"))()
-else
-game.Players.LocalPlayer:Kick("เธเธทเนเธญเธเธตเธซเนเธเนเธญเธเนเธเน 150 เธเธฒเธ—เน€เธญเธ")
-end
+https://godpatter.000webhostapp.com/OuONice
